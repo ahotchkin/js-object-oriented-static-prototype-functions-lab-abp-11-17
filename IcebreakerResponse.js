@@ -14,3 +14,5 @@ const email = [
   ["grace@hopper.com"],
   ["alan@xparc.com"]
 ]
+
+let icebreakerResponse = IcebreakerResponse.BatchCreate(email)
